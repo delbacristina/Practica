@@ -1,0 +1,12 @@
+c:\users\concepto ti\documents\visual studio 2013\Projects\HelloWorld\HelloWorld.UI\bin\Debug\HelloWorld.UI.exe.config
+c:\users\concepto ti\documents\visual studio 2013\Projects\HelloWorld\HelloWorld.UI\bin\Debug\HelloWorld.UI.exe
+c:\users\concepto ti\documents\visual studio 2013\Projects\HelloWorld\HelloWorld.UI\bin\Debug\HelloWorld.UI.pdb
+c:\users\concepto ti\documents\visual studio 2013\Projects\HelloWorld\HelloWorld.UI\obj\Debug\HelloWorld.UI.csprojResolveAssemblyReference.cache
+c:\users\concepto ti\documents\visual studio 2013\Projects\HelloWorld\HelloWorld.UI\obj\Debug\HelloWorld.UI.exe
+c:\users\concepto ti\documents\visual studio 2013\Projects\HelloWorld\HelloWorld.UI\obj\Debug\HelloWorld.UI.pdb
+C:\Users\Concepto TI\Documents\Practica\HelloWorld\HelloWorld.UI\obj\Debug\HelloWorld.UI.csprojResolveAssemblyReference.cache
+C:\Users\Concepto TI\Documents\Practica\HelloWorld\HelloWorld.UI\bin\Debug\HelloWorld.UI.exe.config
+C:\Users\Concepto TI\Documents\Practica\HelloWorld\HelloWorld.UI\bin\Debug\HelloWorld.UI.exe
+C:\Users\Concepto TI\Documents\Practica\HelloWorld\HelloWorld.UI\bin\Debug\HelloWorld.UI.pdb
+C:\Users\Concepto TI\Documents\Practica\HelloWorld\HelloWorld.UI\obj\Debug\HelloWorld.UI.exe
+C:\Users\Concepto TI\Documents\Practica\HelloWorld\HelloWorld.UI\obj\Debug\HelloWorld.UI.pdb
